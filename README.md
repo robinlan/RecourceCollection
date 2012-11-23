@@ -11,6 +11,19 @@ ResourceCollection(项目名字为笔误)，是我平时收集的一些网络资
 
 Computer Science
 ----------------
+
+C and C++ Programming Language
+------------------------------
+
+* [Everything you need to know about pointers in C] (http://boredzo.org/pointers/) C指针详解
+
+* [The Function Pointer Tutorials] (http://www.newty.de/fpt/index.html) 函数指针教程
+
+* [Building And Using Static And Shared "C" Libraries] (http://users.actcom.co.il/~choo/lupg/tutorials/libraries/unix-c-libraries.html) 创建静态和共享C库
+
+* [c craft] (http://crypto.stanford.edu/~blynn/c/) C craft
+
+* [The Development of the C Language] (http://cm.bell-labs.com/cm/cs/who/dmr/chist.html) The Development of the C Language
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) 计算机程序的构造和解释book
 
 
@@ -30,6 +43,7 @@ Linux-Programming
 
 
 ###Linux Programming
+* [Secure Programming for Linux and Unix HOWTO] (http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html) Linux安全编程
 
 * [Advanced Linux Programming](http://www.makelinux.net/alp/) ALP 高级Linux编程book
 
