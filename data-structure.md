@@ -1,4 +1,4 @@
-数据结构与算法
+Data structure and algorithms
 ==============
 
 * [Open Data Structures](http://opendatastructures.org) 数据结构与算法，有c++实现和java实现
