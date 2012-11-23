@@ -11,6 +11,7 @@ ResourceCollection(项目名字为笔误)，是我平时收集的一些网络资
 
 Computer Science
 ----------------
+* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) 计算机程序的构造和解释book
 
 C and C++ Programming Language
 ------------------------------
