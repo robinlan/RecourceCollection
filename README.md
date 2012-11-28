@@ -66,3 +66,8 @@ python
 
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) A Guide to Python's Magic Methods
 
+
+
+--------------------------------------------
+
+* [The Architecture of Open Source Applications](http://www.aosabook.org/en/) The Architecture of Open Source Applications
