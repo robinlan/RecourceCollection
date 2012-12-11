@@ -52,6 +52,8 @@ Linux-Programming
 
 * [Advanced Linux Programming](http://www.makelinux.net/alp/) ALP 高级Linux编程book
 
+* [Linux Socket Programming by Example](http://alas.matf.bg.ac.rs/manuals/lspe/mode=1.html) Linux Socket Programming by Example
+
 
 Javascript
 ----------
