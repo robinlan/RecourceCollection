@@ -27,6 +27,7 @@ C and C++ Programming Language
 * [Building And Using Static And Shared "C" Libraries] (http://users.actcom.co.il/~choo/lupg/tutorials/libraries/unix-c-libraries.html) 创建静态和共享C库
 
 * [c craft] (http://crypto.stanford.edu/~blynn/c/) C craft
+* [Thinking in C++ 2nd Edition] (http://mindview.net/Books/TICPP/ThinkingInCPP2e.html) Thinking in C++ 2nd Edition
 
 * [The Development of the C Language] (http://cm.bell-labs.com/cm/cs/who/dmr/chist.html) The Development of the C Language
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) 计算机程序的构造和解释book

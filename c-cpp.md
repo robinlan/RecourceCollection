@@ -10,3 +10,5 @@ C and C++ Programming Language
 * [c craft] (http://crypto.stanford.edu/~blynn/c/) C craft
 
 * [The Development of the C Language] (http://cm.bell-labs.com/cm/cs/who/dmr/chist.html) The Development of the C Language
+
+* [Thinking in C++ 2nd Edition] (http://mindview.net/Books/TICPP/ThinkingInCPP2e.html) Thinking in C++ 2nd Edition
