@@ -30,7 +30,6 @@ C and C++ Programming Language
 * [Thinking in C++ 2nd Edition] (http://mindview.net/Books/TICPP/ThinkingInCPP2e.html) Thinking in C++ 2nd Edition
 
 * [The Development of the C Language] (http://cm.bell-labs.com/cm/cs/who/dmr/chist.html) The Development of the C Language
-* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) 计算机程序的构造和解释book
 
 
 Data structure and algorithms
