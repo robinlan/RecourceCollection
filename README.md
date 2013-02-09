@@ -17,6 +17,8 @@ Computer Science
 
 * [The Elements of Computing Systems](http://www1.idc.ac.il/tecs/plan.html) The Elements of Computing Systems
 
+* [The Architecture of Open Source Applications](http://www.aosabook.org/en/) The Architecture of Open Source Applications
+
 C and C++ Programming Language
 ------------------------------
 
@@ -31,6 +33,7 @@ C and C++ Programming Language
 
 * [The Development of the C Language] (http://cm.bell-labs.com/cm/cs/who/dmr/chist.html) The Development of the C Language
 
+* [Optimizing C++] (http://www.steveheller.com/opt/) Optimizing c++
 
 Data structure and algorithms
 --------------
@@ -75,4 +78,3 @@ python
 
 --------------------------------------------
 
-* [The Architecture of Open Source Applications](http://www.aosabook.org/en/) The Architecture of Open Source Applications
