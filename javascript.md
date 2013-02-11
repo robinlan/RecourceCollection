@@ -1,3 +1,4 @@
+* [Eloquent JavaScript] (http://eloquentjavascript.net/contents.html) Eloquent JavaScript
 Node.js
 =======
 
