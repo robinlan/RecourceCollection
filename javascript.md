@@ -1,4 +1,5 @@
 * [Eloquent JavaScript] (http://eloquentjavascript.net/contents.html) Eloquent JavaScript
+* [Core JavaScript Guide] (http://www.jsdb.org/jsguide/index.html) Core JavaScript Guide 
 Node.js
 =======
 

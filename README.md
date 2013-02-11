@@ -47,13 +47,13 @@ Linux-Programming
 -----------------
 ###POSIX Threads Programmin
 
-* [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/) POSIX线程编程book
+* [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/) POSIX线程编程
 
 
 ###Linux Programming
 * [Secure Programming for Linux and Unix HOWTO] (http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html) Linux安全编程
 
-* [Advanced Linux Programming](http://www.makelinux.net/alp/) ALP 高级Linux编程book
+* [Advanced Linux Programming](http://www.makelinux.net/alp/) ALP 高级Linux编程
 
 * [Linux Socket Programming by Example](http://alas.matf.bg.ac.rs/manuals/lspe/mode=1.html) Linux Socket Programming by Example
 
@@ -62,6 +62,8 @@ Javascript
 ----------
 
 * [Eloquent JavaScript] (http://eloquentjavascript.net/contents.html) Eloquent JavaScript
+
+* [Core JavaScript Guide] (http://www.jsdb.org/jsguide/index.html) Core JavaScript Guide 
 
 ###Node.js
 * ["Mixu's Node book"](http://book.mixu.net/) node.js基础
