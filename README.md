@@ -52,6 +52,7 @@ Linux-Programming
 Javascript
 ----------
 
+* [Programming JavaScript Application] (http://chimera.labs.oreilly.com/books/1234000000262/index.html)Programming JavaScript Application
 * [Eloquent JavaScript] (http://eloquentjavascript.net/contents.html) Eloquent JavaScript
 * [Core JavaScript Guide] (http://www.jsdb.org/jsguide/index.html) Core JavaScript Guide 
 * [JavaScript The Right Way] (http://jstherightway.com/) JavaScript The Right Way
