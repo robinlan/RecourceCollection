@@ -16,7 +16,6 @@ Computer Science
 * [Foundations of Computer Science] (http://infolab.stanford.edu/~ullman/focs.html) Foundations of Computer Science 
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) 计算机程序的构造和解释
 * [The Elements of Computing Systems](http://www1.idc.ac.il/tecs/plan.html) The Elements of Computing Systems
-* [The Architecture of Open Source Applications](http://www.aosabook.org/en/) The Architecture of Open Source Applications
 
 C and C++ Programming Language
 ------------------------------
@@ -78,3 +77,4 @@ python
 OpenSource
 ------------
 * [Free as in Freedom] (http://oreilly.com/openbook/freedom/) Richard Stallman's Crusade for Free Software
+* [The Architecture of Open Source Applications](http://www.aosabook.org/en/) The Architecture of Open Source Applications
