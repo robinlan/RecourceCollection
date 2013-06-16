@@ -14,3 +14,5 @@ C and C++ Programming Language
 * [Thinking in C++ 2nd Edition] (http://mindview.net/Books/TICPP/ThinkingInCPP2e.html) Thinking in C++ 2nd Edition
 
 * [Optimizing C++] (http://www.steveheller.com/opt/) Optimizing c++
+
+* [c puzzles,some interesting c problems] (http://www.gowrikumar.com/c/) 

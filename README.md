@@ -26,6 +26,7 @@ C and C++ Programming Language
 * [Thinking in C++ 2nd Edition] (http://mindview.net/Books/TICPP/ThinkingInCPP2e.html) Thinking in C++ 2nd Edition
 * [The Development of the C Language] (http://cm.bell-labs.com/cm/cs/who/dmr/chist.html) The Development of the C Language
 * [Optimizing C++] (http://www.steveheller.com/opt/) Optimizing c++
+* [c puzzles,some interesting c problems] (http://www.gowrikumar.com/c/) 
 
 Data structure and algorithms
 --------------
