@@ -61,6 +61,7 @@ Javascript
 * [Core JavaScript Guide] (http://www.jsdb.org/jsguide/index.html) Core JavaScript Guide 
 * [JavaScript The Right Way] (http://jstherightway.com/) JavaScript The Right Way
 * [Learning JavaScript Design Patterns] (http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) Learning JavaScript Design Patterns
+* [JavaScript Cookbook] (http://chimera.labs.oreilly.com/books/1234000001681)
 * [javascript FAQ] (http://www.linuxtopia.org/online_books/javascript_guides/javascript_faq/index.htm) javascript FAQ
 
 ###Node.js
@@ -75,6 +76,7 @@ python
 * [A Byte of Python] (http://swaroopch.com/notes/python_en-preface/)A Byte of Python
 * [Test-Driven Development with Python] (http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 * [Python Guide] (http://docs.python-guide.org/en/latest/) The Hitchhiker’s Guide to Python!
+* [Python Cookbook, Third Edition] (http://chimera.labs.oreilly.com/books/1230000000393)
 * [Django book] (http://djangobook.py3k.cn/2.0/) Django book 2.0
 
 
