@@ -29,6 +29,21 @@ C and C++ Programming Language
 * [Optimizing C++] (http://www.steveheller.com/opt/) Optimizing c++
 * [c puzzles,some interesting c problems] (http://www.gowrikumar.com/c/) 
 
+####Blogs
+* [Sutter's Mill] (http://herbsutter.com/) 
+* [C++ truths] (http://cpptruths.blogspot.com/)
+* [C++Next] (http://cpp-next.com/)
+* [C++FAQ] (http://www.parashift.com/c++-faq-lite/)
+* [Bartosz Milewski's Programming Cafe] (http://bartoszmilewski.com/)
+* [Andrzej's C++ blog] (http://akrzemi1.wordpress.com/)
+* [Functional C++] (http://functionalcpp.wordpress.com/)
+* [Marshall's C++ Musings] (http://cplusplusmusings.wordpress.com/)
+* [Tales of C++  K-ballo] (http://talesofcpp.fusionfenix.com/)
+* [\[Un\]defined behavior] (http://definedbehavior.blogspot.com/)
+
+####Communities
+* [The C++ Source] (http://www.artima.com/cppsource)
+
 Data structure and algorithms
 --------------
 
@@ -70,6 +85,7 @@ Javascript
 
 python
 -------
+####Books
 
 * [深入python ] (http://woodpecker.org.cn/diveintopython/toc/index.html)  dive into python中文版
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) A Guide to Python's Magic Methods
@@ -78,6 +94,9 @@ python
 * [Python Guide] (http://docs.python-guide.org/en/latest/) The Hitchhiker’s Guide to Python!
 * [Python Cookbook, Third Edition] (http://chimera.labs.oreilly.com/books/1230000000393)
 * [Django book] (http://djangobook.py3k.cn/2.0/) Django book 2.0
+
+####Blogs
+* [The History of Python] (http://python-history.blogspot.com/)
 
 
 --------------------------------------------

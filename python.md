@@ -8,3 +8,7 @@ python
 * [Python Guide] (http://docs.python-guide.org/en/latest/) The Hitchhiker’s Guide to Python!
 * [Python Cookbook, Third Edition] (http://chimera.labs.oreilly.com/books/1230000000393)
 * [Django book] (http://djangobook.py3k.cn/2.0/) Django book 2.0
+
+Blogs
+----
+* [The History of Python] (http://python-history.blogspot.com/)
