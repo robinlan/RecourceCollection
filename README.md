@@ -25,6 +25,7 @@ C and C++ Programming Language
 * [Building And Using Static And Shared "C" Libraries] (http://users.actcom.co.il/~choo/lupg/tutorials/libraries/unix-c-libraries.html) 创建静态和共享C库
 * [c craft] (http://crypto.stanford.edu/~blynn/c/) C craft
 * [Thinking in C++ 2nd Edition] (http://mindview.net/Books/TICPP/ThinkingInCPP2e.html) Thinking in C++ 2nd Edition
+* [C++ Annotations Version 9.7.3] (http://www.icce.rug.nl/documents/cplusplus/)
 * [The Development of the C Language] (http://cm.bell-labs.com/cm/cs/who/dmr/chist.html) The Development of the C Language
 * [Optimizing C++] (http://www.steveheller.com/opt/) Optimizing c++
 * [c puzzles,some interesting c problems] (http://www.gowrikumar.com/c/) 
