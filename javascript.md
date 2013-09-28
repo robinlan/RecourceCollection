@@ -6,6 +6,7 @@
 * [JavaScript Cookbook] (http://chimera.labs.oreilly.com/books/1234000001681)
 * [javascript FAQ] (http://www.linuxtopia.org/online_books/javascript_guides/javascript_faq/index.htm) javascript FAQ
 * [深入理解Javascript系列] (http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+* [How to learn Javascript properly] (http://javascriptissexy.com/how-to-learn-javascript-properly/)
 Node.js
 =======
 
