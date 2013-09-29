@@ -40,7 +40,7 @@ C and C++ Programming Language
 * [Functional C++] (http://functionalcpp.wordpress.com/)
 * [Marshall's C++ Musings] (http://cplusplusmusings.wordpress.com/)
 * [Tales of C++  K-ballo] (http://talesofcpp.fusionfenix.com/)
-* [\[Un\]defined behavior] (http://definedbehavior.blogspot.com/)
+* [\[Un\]defined behavior] (http://definedbehavior.blogspot.com/) *需科学上网*
 
 ####Communities
 * [The C++ Source] (http://www.artima.com/cppsource)
