@@ -30,7 +30,7 @@ C and C++ Programming Language
 * [Optimizing C++] (http://www.steveheller.com/opt/) Optimizing c++
 * [c puzzles,some interesting c problems] (http://www.gowrikumar.com/c/) 
 
-####Blogs
+####blogs
 * [Sutter's Mill] (http://herbsutter.com/) 
 * [C++ truths] (http://cpptruths.blogspot.com/)
 * [C++Next] (http://cpp-next.com/)
@@ -100,7 +100,7 @@ Javascript
 * [Node.js v0.10.18 手册 & 文档] (http://nodeapi.ucdok.com/#/api/)
 
 
-python
+Python
 -------
 ####Books
 
@@ -124,3 +124,14 @@ OpenSource
 ------------
 * [Free as in Freedom] (http://oreilly.com/openbook/freedom/) Richard Stallman's Crusade for Free Software
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/) The Architecture of Open Source Applications
+
+
+
+
+----------------------------------------------
+
+
+Something Cool
+--------------
+
+* (Interactive Data Visualization for the Web) (http://chimera.labs.oreilly.com/books/1230000000345/index.html)
