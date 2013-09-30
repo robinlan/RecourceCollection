@@ -96,6 +96,9 @@ Javascript
 * [How to learn Javascript properly] (http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [你若触发，我就处理——浅谈JavaScript的事件响应] (http://chajn.org/project/javascript-events-responding-user/)
 
+###CoffeeScript
+* [The Little Book on CoffeeScript] (http://arcturo.github.io/library/coffeescript/)
+
 ###Node.js
 * ["Mixu's Node book"](http://book.mixu.net/) node.js基础
 * [Node.js v0.10.18 手册 & 文档] (http://nodeapi.ucdok.com/#/api/)

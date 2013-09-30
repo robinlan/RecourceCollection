@@ -13,6 +13,11 @@ blogs
 * [How to learn Javascript properly] (http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [你若触发，我就处理——浅谈JavaScript的事件响应] (http://chajn.org/project/javascript-events-responding-user/)
 
+CoffeeScript
+============
+
+* [The Little Book on CoffeeScript] (http://arcturo.github.io/library/coffeescript/)
+
 Node.js
 =======
 
