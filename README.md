@@ -130,8 +130,6 @@ OpenSource
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/) The Architecture of Open Source Applications
 
 
-
-
 ----------------------------------------------
 
 
