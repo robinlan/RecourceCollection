@@ -9,6 +9,7 @@ python
 * [Python Cookbook, Third Edition] (http://chimera.labs.oreilly.com/books/1230000000393)
 * [Writing Idiomatic Python] (http://www.jeffknupp.com/writing-idiomatic-python-ebook/)
 * [Django book] (http://djangobook.py3k.cn/2.0/) Django book 2.0
+* [gevent 程序员指南] (http://xlambda.com/gevent-tutorial)
 
 Blogs
 ----
