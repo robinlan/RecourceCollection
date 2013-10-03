@@ -58,6 +58,10 @@ Data structure and algorithms
 ####courses
 * [Data Structures & OO Development I] (http://courses.cs.vt.edu/cs2604/SummerI_2006/)
 
+Database
+---------
+* [Redis的设计与实现] (http://www.redisbook.com/en/latest/)
+
 Linux-Programming
 -----------------
 ###Linux 
