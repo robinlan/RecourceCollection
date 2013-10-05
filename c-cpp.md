@@ -28,6 +28,7 @@ Blog
 * [C++ truths] (http://cpptruths.blogspot.com/)
 * [C++Next] (http://cpp-next.com/)
 * [C++FAQ] (http://www.parashift.com/c++-faq-lite/)
+* [C++FQA] (http://yosefk.com/c++fqa/)
 * [Bartosz Milewski's Programming Cafe] (http://bartoszmilewski.com/)
 * [Andrzej's C++ blog] (http://akrzemi1.wordpress.com/)
 * [Functional C++] (http://functionalcpp.wordpress.com/)
