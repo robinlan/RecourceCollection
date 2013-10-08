@@ -3,7 +3,7 @@
 * [Eloquent JavaScript] (http://eloquentjavascript.net/contents.html) Eloquent JavaScript
 * [Core JavaScript Guide] (http://www.jsdb.org/jsguide/index.html) Core JavaScript Guide 
 * [JavaScript The Right Way] (http://jstherightway.com/) JavaScript The Right Way
-* [Learning JavaScript Design Patterns] (http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) Learning JavaScript Design Patterns
+* [Learning JavaScript Design Patterns] (http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) Learning JavaScript Design Patterns [中文版] (http://www.oschina.net/translate/learning-javascript-design-patterns)
 * [JavaScript Cookbook] (http://chimera.labs.oreilly.com/books/1234000001681)
 * [javascript FAQ] (http://www.linuxtopia.org/online_books/javascript_guides/javascript_faq/index.htm) javascript FAQ
 
