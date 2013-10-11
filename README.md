@@ -127,6 +127,12 @@ Python
 * [The History of Python] (http://python-history.blogspot.com/)
 
 
+Haskell
+-------
+####Books
+* [Learn You a Haskell for Great Good!] (http://learnyouahaskell.com/chapters)
+
+
 --------------------------------------------
 
 
