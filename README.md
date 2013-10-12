@@ -111,7 +111,7 @@ Javascript
 
 Python
 -------
-####Books
+####books
 
 * [深入python ] (http://woodpecker.org.cn/diveintopython/toc/index.html)  dive into python中文版
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) A Guide to Python's Magic Methods
@@ -123,13 +123,13 @@ Python
 * [Django book] (http://djangobook.py3k.cn/2.0/) Django book 2.0
 * [gevent 程序员指南] (http://xlambda.com/gevent-tutorial)
 
-####Blogs
+####blogs
 * [The History of Python] (http://python-history.blogspot.com/)
 
 
 Haskell
 -------
-####Books
+####books
 * [Learn You a Haskell for Great Good!] (http://learnyouahaskell.com/chapters)
 
 
@@ -149,4 +149,7 @@ OpenSource
 Something Cool
 --------------
 
+####books
 * [Interactive Data Visualization for the Web] (http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+####tools
+* [The Online Disassembler] (http://www.onlinedisassembler.com/odaweb/)
