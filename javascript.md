@@ -24,3 +24,7 @@ Node.js
 
 * ["Mixu's Node book"](http://book.mixu.net/) node.js基础
 * [Node.js v0.10.18 手册 & 文档] (http://nodeapi.ucdok.com/#/api/)
+
+angularjs
+=========
+* [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
