@@ -136,6 +136,10 @@ Haskell
 * [Learn You a Haskell for Great Good!] (http://learnyouahaskell.com/chapters)
 
 
+WebServer
+----------
+* [Nginx开发从入门到精通] (http://tengine.taobao.org/book/)
+
 --------------------------------------------
 
 
