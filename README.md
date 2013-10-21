@@ -105,6 +105,7 @@ Javascript
 * [The Little Book on CoffeeScript] (http://arcturo.github.io/library/coffeescript/)
 
 ###Node.js
+* [Node.js 入门] (http://www.nodebeginner.org/index-zh-cn.html)
 * ["Mixu's Node book"](http://book.mixu.net/) node.js基础
 * [Node.js v0.10.18 手册 & 文档] (http://nodeapi.ucdok.com/#/api/)
 
