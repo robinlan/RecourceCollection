@@ -19,6 +19,11 @@ CoffeeScript
 
 * [The Little Book on CoffeeScript] (http://arcturo.github.io/library/coffeescript/)
 
+JQuery
+======
+
+* [jQuery 2.0.3 源码分析系列] (http://www.cnblogs.com/aaronjs/p/3279314.html)
+
 Node.js
 =======
 
