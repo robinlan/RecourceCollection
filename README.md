@@ -128,6 +128,7 @@ Python
 * [Python Cookbook, Third Edition] (http://chimera.labs.oreilly.com/books/1230000000393)
 * [Writing Idiomatic Python] (http://www.jeffknupp.com/writing-idiomatic-python-ebook/)
 * [Django book] (http://djangobook.py3k.cn/2.0/) Django book 2.0
+* [How To Tango With Django] (http://www.tangowithdjango.com/)
 * [gevent 程序员指南] (http://xlambda.com/gevent-tutorial)
 
 ####blogs
@@ -138,6 +139,7 @@ Haskell
 -------
 ####books
 * [Learn You a Haskell for Great Good!] (http://learnyouahaskell.com/chapters)
+* [Learn Haskell Fast and Hard] (http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 
 
 WebServer
