@@ -29,8 +29,6 @@ C and C++ Programming Language
 * [The Development of the C Language] (http://cm.bell-labs.com/cm/cs/who/dmr/chist.html) The Development of the C Language
 * [Optimizing C++] (http://www.steveheller.com/opt/) Optimizing c++
 * [c puzzles,some interesting c problems] (http://www.gowrikumar.com/c/) 
-* [More C++ Idioms] (http://en.wikibooks.org/wiki/More_C++_Idioms)
-* [Top 5 Questions about C/C++ Pointers] (http://www.programcreek.com/2013/09/top-5-questions-about-c-pointers/)
 
 ####blogs
 * [Sutter's Mill] (http://herbsutter.com/) 
@@ -141,9 +139,7 @@ Haskell
 -------
 ####books
 * [Learn You a Haskell for Great Good!] (http://learnyouahaskell.com/chapters)
-* [Stanford CS240h lecture notes] (http://www.scs.stanford.edu/11au-cs240h/notes/)
 * [Learn Haskell Fast and Hard] (http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
-* [Write Yourself a Scheme in 48 Hours] (http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 
 
 WebServer
