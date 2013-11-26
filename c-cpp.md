@@ -27,6 +27,7 @@ Blog
 * [Functional C++] (http://functionalcpp.wordpress.com/) *需科学上网*
 * [Marshall's C++ Musings] (http://cplusplusmusings.wordpress.com/) *需科学上网*
 * [Tales of C++  K-ballo] (http://talesofcpp.fusionfenix.com/)
+* [ Bartosz Milewski's Programming Cafe] (http://bartoszmilewski.com/)
 * [\[Un\]defined behavior] (http://definedbehavior.blogspot.com/) *需科学上网*
 
 Communities

@@ -35,14 +35,15 @@ C and C++ Programming Language
 
 ####blogs
 * [Sutter's Mill] (http://herbsutter.com/) 
-* [C++ truths] (http://cpptruths.blogspot.com/)
+* [C++ truths] (http://cpptruths.blogspot.com/)*需科学上网*
 * [C++Next] (http://cpp-next.com/)
 * [C++FAQ] (http://www.parashift.com/c++-faq-lite/)
 * [C++FQA] (http://yosefk.com/c++fqa/)
 * [Bartosz Milewski's Programming Cafe] (http://bartoszmilewski.com/)
-* [Andrzej's C++ blog] (http://akrzemi1.wordpress.com/)
-* [Functional C++] (http://functionalcpp.wordpress.com/)
-* [Marshall's C++ Musings] (http://cplusplusmusings.wordpress.com/)
+* [Andrzej's C++ blog] (http://akrzemi1.wordpress.com/)*需科学上网*
+* [Functional C++] (http://functionalcpp.wordpress.com/)*需科学上网*
+* [Marshall's C++ Musings] (http://cplusplusmusings.wordpress.com/)*需科学上网*
+* [ Bartosz Milewski's Programming Cafe] (http://bartoszmilewski.com/)
 * [Tales of C++  K-ballo] (http://talesofcpp.fusionfenix.com/)
 * [\[Un\]defined behavior] (http://definedbehavior.blogspot.com/) *需科学上网*
 
