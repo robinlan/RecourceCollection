@@ -8,6 +8,8 @@
 * [javascript FAQ] (http://www.linuxtopia.org/online_books/javascript_guides/javascript_faq/index.htm) javascript FAQ
 * [Airbnb JavaScript Style Guide] (https://github.com/airbnb/javascript)
 
+* [Create your own programming language] (http://nathansuniversity.com/)
+
 blogs
 ------
 
